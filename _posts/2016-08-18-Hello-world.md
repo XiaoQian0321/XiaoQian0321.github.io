@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Xiaonqian's blog!"
-date:   2016-08-18 19:45:00 +0800
+date:   2016-08-18 21:00:00 +0800
 categories: jekyll update
 ---
 
